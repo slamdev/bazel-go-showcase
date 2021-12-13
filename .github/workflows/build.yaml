@@ -30,6 +30,6 @@ jobs:
       - name: Run binary
         run: |
           ./bazelw run //:binary
-      - name: Run binary
+      - name: Run image
         run: |
           ./bazelw run //:image
