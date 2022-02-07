@@ -1,4 +1,4 @@
-workspace(name = "bazel-go-confluent-kafka-showcase")
+workspace(name = "bazel-go-showcase")
 
 load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 

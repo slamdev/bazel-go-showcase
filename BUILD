@@ -4,7 +4,7 @@ load("@io_bazel_rules_docker//go:image.bzl", "go_image")
 go_library(
     name = "lib",
     srcs = ["main.go"],
-    importpath = "bazel-go-confluent-kafka-showcase",
+    importpath = "bazel-go-showcase",
 )
 
 go_binary(

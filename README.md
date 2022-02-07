@@ -1,6 +1,6 @@
-# bazel-go-confluent-kafka-showcase
+# bazel-go-showcase
 
-[CI pipeline](https://github.com/slamdev/bazel-go-confluent-kafka-showcase/actions/workflows/build.yaml) that runs the code with different OSes.
+[CI pipeline](https://github.com/slamdev/bazel-go-showcase/actions/workflows/build.yaml) that runs the code with different OSes.
 
 Targeted dev experience:
 
