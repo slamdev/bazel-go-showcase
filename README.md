@@ -17,3 +17,5 @@ bazel run //:image
 bazel run //:binary
 bazel run //:image
 ```
+
+Based on https://github.com/gregmagolan/bazel-llvm-cgo-cross-compile-example
